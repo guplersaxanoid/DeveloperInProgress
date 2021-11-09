@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @DeveloperInProgress (officially, Naveen)
-- 👀 If you're here, you know what I do
-- 📫 How to reach me ... twitter: @naveenvemy ; email: velnaveen99@gmail.com
+Building decentralized systems, contributing to web3.
+
+Open Source Everthing.
+
+My wallet address : 0x36a2003aF6f382096aa0A2475D17dE322Ae4EA16 (Ethereum mainnet, xDai, BSC)
+
+Twitter : @naveenvemy
